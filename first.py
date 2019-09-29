@@ -7,7 +7,7 @@ for j in range(len(a)):
         j -= 1
 print(a)
 
-#Sort by selection
+#Selection sort
 a = [792, 803, 982, 904, 436, 679, 583, 942, 85, 857, 812, 27, 95, 613, 674]
 for i in range(len(a) - 1):
     for j in range(i + 1, len(a)):
